@@ -2759,3 +2759,5 @@ coursera.courseId = (function() {
         content: attr(data-content);
       }
     </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
+
+	# This is my submission for the Coursera assignment.
